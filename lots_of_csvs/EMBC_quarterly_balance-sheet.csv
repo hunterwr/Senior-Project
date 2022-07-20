@@ -1,0 +1,56 @@
+name,03/31/2022,12/31/2021
+TotalAssets,"833,500,000","739,900,000"
+	CurrentAssets,"426,500,000","258,300,000"
+		CashCashEquivalentsAndShortTermInvestments,"264,300,000",
+			CashAndCashEquivalents,"264,300,000",
+		Receivables,"15,200,000","118,300,000"
+			AccountsReceivable,"15,200,000","118,300,000"
+		Inventory,"122,400,000","119,100,000"
+			RawMaterials,"12,300,000","13,300,000"
+			WorkInProcess,"17,500,000","21,200,000"
+			FinishedGoods,"92,600,000","84,600,000"
+		PrepaidAssets,"24,600,000","20,900,000"
+	TotalNonCurrentAssets,"407,000,000","481,600,000"
+		NetPPE,"355,700,000","436,500,000"
+			GrossPPE,"774,700,000","874,500,000"
+				Properties,"0","0"
+				LandAndImprovements,"1,600,000","3,400,000"
+				BuildingsAndImprovements,"98,200,000","120,100,000"
+				MachineryFurnitureEquipment,"522,700,000","559,500,000"
+				ConstructionInProgress,"145,700,000","185,000,000"
+				Leases,"6,500,000","6,500,000"
+			AccumulatedDepreciation,"-419,000,000","-438,000,000"
+		GoodwillAndOtherIntangibleAssets,"34,700,000","33,900,000"
+			Goodwill,"15,700,000","15,600,000"
+			OtherIntangibleAssets,"19,000,000","18,300,000"
+		OtherNonCurrentAssets,"16,600,000","11,200,000"
+TotalLiabilitiesNetMinorityInterest,"1,801,000,000","189,400,000"
+	CurrentLiabilities,"168,900,000","159,100,000"
+		PayablesAndAccruedExpenses,"159,400,000","159,100,000"
+			Payables,"59,300,000","58,100,000"
+				AccountsPayable,"50,800,000","58,100,000"
+				TotalTaxPayable,"8,500,000",
+					IncomeTaxPayable,"8,500,000",
+			CurrentAccruedExpenses,"100,100,000","101,000,000"
+		CurrentDebtAndCapitalLeaseObligation,"9,500,000",
+			CurrentDebt,"9,500,000",
+	TotalNonCurrentLiabilitiesNetMinorityInterest,"1,632,100,000","30,300,000"
+		LongTermDebtAndCapitalLeaseObligation,"1,600,700,000",
+			LongTermDebt,"1,600,700,000",
+		NonCurrentDeferredLiabilities,"31,400,000","30,300,000"
+			NonCurrentDeferredTaxesLiabilities,"31,400,000","30,300,000"
+TotalEquityGrossMinorityInterest,"-967,500,000","550,500,000"
+	StockholdersEquity,"-967,500,000","550,500,000"
+		CapitalStock,"-681,100,000","829,800,000"
+			CommonStock,"-681,100,000","829,800,000"
+		GainsLossesNotAffectingRetainedEarnings,"-286,400,000","-279,300,000"
+TotalCapitalization,"633,200,000","550,500,000"
+CommonStockEquity,"-967,500,000","550,500,000"
+NetTangibleAssets,"-1,002,200,000","516,600,000"
+WorkingCapital,"257,600,000","99,200,000"
+InvestedCapital,"642,700,000","550,500,000"
+TangibleBookValue,"-1,002,200,000","516,600,000"
+TotalDebt,"1,610,200,000",
+NetDebt,"1,345,900,000",
+ShareIssued,"57,000,000","57,000,000"
+OrdinarySharesNumber,"57,000,000","57,000,000"

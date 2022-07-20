@@ -1,0 +1,32 @@
+name,ttm,03/31/2022,12/31/2021,09/30/2021,06/30/2021,03/31/2021
+OperatingCashFlow,"-698,356","-310,584","-70,481","-72,311","-244,980","-59,717"
+	CashFlowFromContinuingOperatingActivities,"-698,356","-310,584","-70,481","-72,311","-244,980","-59,717"
+		NetIncomeFromContinuingOperations,"-13,065,769","17,019,868","-32,387,371","10,101,825","-7,800,091","27,381,743"
+		OperatingGainsLosses,"6,967,600","-19,086,800","29,484,200","-10,423,400","6,993,600","-27,535,200"
+			GainLossOnInvestmentSecurities,"6,967,600","-19,086,800","29,484,200","-10,423,400","6,993,600","-27,535,200"
+		UnrealizedGainLossOnInvestmentSecurities,"-391,767","-206,683","-89,058","-101,333","5,307","-139,903"
+		OtherNonCashItems,,"560,000",,,,
+		ChangeInWorkingCapital,"5,231,580","1,403,031","2,921,748","350,597","556,204","233,643"
+			ChangeInPrepaidAssets,"408,079","40,625","125,624","115,625","126,205","46,373"
+			ChangeInPayablesAndAccruedExpense,"4,823,501","1,362,406","3,949,387","-351,986","-136,306","187,270"
+				ChangeInPayable,"4,617,577","1,332,416","3,849,872","-410,380","-154,331","176,174"
+					ChangeInAccountPayable,"4,617,577","1,332,416","3,849,872","-410,380","-154,331","176,174"
+				ChangeInAccruedExpense,"205,924","29,990","99,515","58,394","18,025","11,096"
+			ChangeInOtherWorkingCapital,,,,"586,958","571,612","-139,903"
+InvestingCashFlow,,,"0",,,
+	CashFlowFromContinuingInvestingActivities,,,"0",,,
+FinancingCashFlow,"240,000","240,000","0",,,
+	CashFlowFromContinuingFinancingActivities,"240,000","240,000","0",,,
+		NetIssuancePaymentsOfDebt,"240,000","240,000","0",,,
+			NetLongTermDebtIssuance,"240,000","240,000","0",,,
+				LongTermDebtIssuance,"240,000","240,000","0",,,
+				LongTermDebtPayments,,,"0",,,
+		NetCommonStockIssuance,,,"0",,,
+			CommonStockIssuance,,,"0",,,
+EndCashPosition,"219,713","219,713","290,297","360,778","433,089","678,069"
+	ChangesInCash,"-458,356","-70,584","-70,481","-72,311","-244,980","-59,717"
+	BeginningCashPosition,"678,069","290,297","360,778","433,089","678,069","737,786"
+IssuanceOfCapitalStock,,,"0",,,
+IssuanceOfDebt,"240,000","240,000","0",,,
+RepaymentOfDebt,,,"0",,,
+FreeCashFlow,"-698,356","-310,584","-70,481","-72,311","-244,980","-59,717"

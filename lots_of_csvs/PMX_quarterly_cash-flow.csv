@@ -1,0 +1,11 @@
+name,ttm
+OperatingCashFlow,"7,222,000"
+FinancingCashFlow,"-7,222,000"
+EndCashPosition,"0"
+	ChangesInCash,"0"
+	BeginningCashPosition,"0"
+IssuanceOfCapitalStock,"34,242,000"
+IssuanceOfDebt,"13,500,000"
+RepaymentOfDebt,"-3,384,000"
+RepurchaseOfCapitalStock,"-34,300,000"
+FreeCashFlow,"7,222,000"

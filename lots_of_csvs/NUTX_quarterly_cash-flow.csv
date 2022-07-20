@@ -1,0 +1,52 @@
+name,ttm,03/31/2022,03/31/2021,12/31/2020
+OperatingCashFlow,"159,326,390","-2,378,658","-567,063","32,628,948"
+	CashFlowFromContinuingOperatingActivities,"158,326,390","-2,378,658","-567,063","31,628,948"
+		NetIncomeFromContinuingOperations,"215,451,896","-16,569,185","-4,484,140","60,576,409"
+		DepreciationAmortizationDepletion,"6,585,799","229,036","65,098","712,360"
+			DepreciationAndAmortization,"6,585,799","229,036","65,098","712,360"
+				Depreciation,,"1,564","1,054",
+				AmortizationCashFlow,,"227,472","64,044",
+					AmortizationOfIntangibles,,"227,472","64,044",
+		StockBasedCompensation,,"14,196,876","3,852,637",
+		OtherNonCashItems,"-5,211,005","-49,189","476,619","859,794"
+		ChangeInWorkingCapital,"-57,500,300","-186,196","-477,277","-29,519,615"
+			ChangeInReceivables,"-67,009,907","-146,621","-59,390","-31,408,270"
+				ChangesInAccountReceivables,"-67,009,907","-146,621","-59,390","-31,408,270"
+			ChangeInInventory,"-830,653",,,"-825,773"
+			ChangeInPrepaidAssets,"-419,263","173,891","70,912","-4,260"
+			ChangeInPayablesAndAccruedExpense,"10,833,580","-118,437","-439,298","2,756,102"
+				ChangeInPayable,"8,515,939","-121,168","-439,298","2,111,962"
+					ChangeInAccountPayable,"8,515,939","-121,168","-439,298","2,111,962"
+				ChangeInAccruedExpense,"2,317,641","2,731","0","644,140"
+					ChangeInInterestPayable,,"2,731","0",
+			ChangeInOtherCurrentLiabilities,,"-11,261","0",
+			ChangeInOtherWorkingCapital,"-74,057","-83,768","-49,501","-37,414"
+InvestingCashFlow,"-65,949,894","-184,442","3,888,267","-40,860,941"
+	CashFlowFromContinuingInvestingActivities,"-65,949,894","-184,442","3,888,267","-40,860,941"
+		NetPPEPurchaseAndSale,"-65,949,894","-1,422","0","-40,860,941"
+			PurchaseOfPPE,"-65,949,894","-1,422","0","-40,860,941"
+		NetBusinessPurchaseAndSale,,"0","3,803,267",
+			SaleOfBusiness,,"0","3,803,267",
+		DividendsReceivedCFI,,"-183,020","0",
+		NetOtherInvestingChanges,,,"85,000",
+FinancingCashFlow,"-83,112,547","-35,000","393,323","9,771,883"
+	CashFlowFromContinuingFinancingActivities,"-83,112,549","-35,000","393,323","9,771,881"
+		NetIssuancePaymentsOfDebt,"26,133,621","-150,000","393,323","30,176,619"
+			NetLongTermDebtIssuance,"27,826,186","-150,000","393,323","31,005,984"
+				LongTermDebtIssuance,"51,292,568","0","410,088","36,321,672"
+				LongTermDebtPayments,"-23,466,382","-150,000","-16,765","-5,315,688"
+			NetShortTermDebtIssuance,"-1,692,565",,,"-829,365"
+				ShortTermDebtIssuance,"-1,000,000",,,"-1,000,000"
+				ShortTermDebtPayments,"-692,565",,,"170,635"
+		CashDividendsPaid,"-127,948,798",,,"-26,265,058"
+		ProceedsFromStockOptionExercised,,"25,000","0",
+		NetOtherFinancingCharges,"18,702,630","90,000",,"5,860,322"
+EndCashPosition,"34,238,334","12,716,228","3,741,458","25,514,275"
+	ChangesInCash,"10,263,949","-2,598,100","3,714,527","1,539,890"
+	BeginningCashPosition,"23,974,385","15,314,328","26,931","23,974,385"
+IncomeTaxPaidSupplementalData,"0",,,"0"
+InterestPaidSupplementalData,"352,094","184,187","11,127","-2,899,333"
+CapitalExpenditure,"-65,949,894","-1,422",,"-40,860,941"
+IssuanceOfDebt,"50,292,568","0","410,088","35,321,672"
+RepaymentOfDebt,"-24,158,947","-150,000","-16,765","-5,145,053"
+FreeCashFlow,"93,376,496","-2,380,080","-567,063","-8,231,993"

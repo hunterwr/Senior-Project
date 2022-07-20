@@ -1,0 +1,54 @@
+name,ttm,12/31/2021,03/31/2021,12/31/2020
+OperatingCashFlow,,"-40,609,496","10,128,000","13,797,000"
+	CashFlowFromContinuingOperatingActivities,,"-40,609,496","10,128,000","15,714,000"
+		NetIncomeFromContinuingOperations,,,"6,743,000",
+		DepreciationAmortizationDepletion,,,"3,689,000",
+			DepreciationAndAmortization,,,"3,689,000",
+				Depreciation,,,"3,689,000",
+		DeferredTax,,,"-274,000",
+			DeferredIncomeTax,,,"-274,000",
+		AssetImpairmentCharge,,,"255,000",
+		StockBasedCompensation,,,"146,000",
+		OtherNonCashItems,,,"2,040,000",
+		ChangeInWorkingCapital,,,"-2,471,000",
+			ChangeInReceivables,,,"-4,723,000",
+				ChangesInAccountReceivables,,,"-4,471,000",
+			ChangeInPrepaidAssets,,,"-1,029,000",
+			ChangeInPayablesAndAccruedExpense,,,"4,348,000",
+				ChangeInPayable,,,"5,306,000",
+					ChangeInAccountPayable,,,"5,306,000",
+				ChangeInAccruedExpense,,,"-958,000",
+			ChangeInOtherCurrentLiabilities,,,"-1,231,000",
+			ChangeInOtherWorkingCapital,,,"164,000",
+	CashFromDiscontinuedOperatingActivities,,,,"-1,917,000"
+InvestingCashFlow,,"4,901,000","-1,440,000","73,774,000"
+	CashFlowFromContinuingInvestingActivities,,"4,901,000","-1,440,000","73,916,000"
+		CapitalExpenditureReported,,,"-1,440,000","-617,000"
+		NetPPEPurchaseAndSale,,,"0","-11,000"
+			PurchaseOfPPE,,,"0","-11,000"
+		NetBusinessPurchaseAndSale,,,"0",
+			PurchaseOfBusiness,,,"0",
+	CashFromDiscontinuedInvestingActivities,,,,"-142,000"
+FinancingCashFlow,,"28,085,000","-6,603,000","-108,227,000"
+	CashFlowFromContinuingFinancingActivities,,"28,085,000","-6,603,000","-108,227,000"
+		NetIssuancePaymentsOfDebt,,"11,836,000","-1,750,000","-67,093,000"
+			NetLongTermDebtIssuance,,,"-1,750,000","-32,231,000"
+				LongTermDebtIssuance,,,"0",
+				LongTermDebtPayments,,,"-1,750,000","-32,231,000"
+			NetShortTermDebtIssuance,,"450,000",,"-34,862,000"
+				ShortTermDebtIssuance,,"450,000",,"0"
+		NetCommonStockIssuance,,,"0",
+			CommonStockPayments,,,"0",
+		CashDividendsPaid,,,"0","-41,340,000"
+		NetOtherFinancingCharges,,,"-4,853,000","206,000"
+EndCashPosition,,"53,147","30,853,000","29,013,000"
+	ChangesInCash,,"-7,623,496","2,085,000","-20,656,000"
+	EffectOfExchangeRateChanges,,,"-245,000","120,000"
+	BeginningCashPosition,,"36,209,000","29,013,000","49,549,000"
+IncomeTaxPaidSupplementalData,,,"518,000","1,110,000"
+InterestPaidSupplementalData,,,"3,762,000","5,297,000"
+CapitalExpenditure,,,"-1,440,000","-628,000"
+IssuanceOfDebt,,"450,000","0","0"
+RepaymentOfDebt,,"11,386,000","-1,750,000","-67,093,000"
+RepurchaseOfCapitalStock,,,"0",
+FreeCashFlow,,"-35,708,496","8,688,000","13,169,000"

@@ -1,0 +1,51 @@
+name,03/31/2022,09/30/2021
+TotalAssets,"357,881,000","381,657,134"
+	CurrentAssets,"111,086,000","297,625,387"
+		CashCashEquivalentsAndShortTermInvestments,"99,495,000","282,276,578"
+			CashAndCashEquivalents,"99,495,000","282,276,578"
+		PrepaidAssets,"11,400,000","15,348,809"
+		OtherCurrentAssets,"191,000",
+	TotalNonCurrentAssets,"246,795,000","84,031,748"
+		NetPPE,"228,060,000","74,476,326"
+			GrossPPE,"228,072,000","74,477,753"
+				MachineryFurnitureEquipment,"248,000","23,761"
+				OtherProperties,"5,744,000",
+				ConstructionInProgress,"222,080,000","74,453,992"
+			AccumulatedDepreciation,"-12,000","-1,427"
+		InvestmentsAndAdvances,"7,373,000",
+			LongTermEquityInvestment,"7,373,000",
+		NonCurrentDeferredAssets,"0","174,250"
+		NonCurrentPrepaidAssets,"11,362,000","9,381,172"
+TotalLiabilitiesNetMinorityInterest,"15,387,000","1,678,414"
+	CurrentLiabilities,"10,022,000","1,407,094"
+		PayablesAndAccruedExpenses,"9,465,000","1,407,094"
+			Payables,"7,677,000","127,878"
+				AccountsPayable,"5,854,000","127,878"
+				TotalTaxPayable,"1,823,000",
+			CurrentAccruedExpenses,"1,788,000","1,279,216"
+		CurrentDebtAndCapitalLeaseObligation,"557,000",
+			CurrentCapitalLeaseObligation,"557,000",
+	TotalNonCurrentLiabilitiesNetMinorityInterest,"5,365,000","271,320"
+		LongTermDebtAndCapitalLeaseObligation,"5,276,000",
+			LongTermCapitalLeaseObligation,"5,276,000",
+		DerivativeProductLiabilities,"89,000","271,320"
+TotalEquityGrossMinorityInterest,"342,494,000","379,978,720"
+	StockholdersEquity,"342,494,000","379,978,720"
+		CapitalStock,"254,000","246,381"
+			PreferredStock,"0","0"
+			CommonStock,"254,000","246,381"
+		AdditionalPaidInCapital,"431,899,000","384,508,122"
+		RetainedEarnings,"-89,655,000","-3,085,432"
+		TreasuryStock,"4,000",
+		OtherEquityInterest,,"-1,690,351"
+TotalCapitalization,"342,494,000","379,978,720"
+CommonStockEquity,"342,494,000","379,978,720"
+CapitalLeaseObligations,"5,833,000",
+NetTangibleAssets,"342,494,000","379,978,720"
+WorkingCapital,"101,064,000","296,218,293"
+InvestedCapital,"342,494,000","379,978,720"
+TangibleBookValue,"342,494,000","379,978,720"
+TotalDebt,"5,833,000",
+ShareIssued,"253,685,763","246,381,119"
+OrdinarySharesNumber,"250,174,273","246,381,119"
+TreasurySharesNumber,"3,511,490",

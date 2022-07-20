@@ -1,0 +1,44 @@
+name,ttm,03/31/2022,12/31/2021,03/31/2021,12/31/2020
+OperatingCashFlow,"-133,200,000","-36,800,000","-48,900,000","-12,000,000","-7,600,000"
+	CashFlowFromContinuingOperatingActivities,"-133,200,000","-36,800,000","-48,900,000","-12,000,000","-7,600,000"
+		NetIncomeFromContinuingOperations,"-312,100,000","-59,200,000","-43,300,000","-94,900,000","-8,700,000"
+		OperatingGainsLosses,"29,400,000","-5,400,000","-9,200,000","78,200,000",
+			GainLossOnInvestmentSecurities,"30,300,000","-5,400,000","-9,200,000","78,200,000",
+		DepreciationAmortizationDepletion,"1,700,000","600,000","500,000","200,000","100,000"
+			DepreciationAndAmortization,"1,700,000","600,000","500,000","200,000","100,000"
+		StockBasedCompensation,"147,200,000","24,500,000","18,900,000","900,000","200,000"
+		OtherNonCashItems,"2,700,000","1,100,000","800,000","300,000","0"
+		ChangeInWorkingCapital,"-2,100,000","1,600,000","-16,600,000","3,300,000","800,000"
+			ChangeInPrepaidAssets,"-8,500,000","-1,700,000","-6,500,000","0","100,000"
+			ChangeInPayablesAndAccruedExpense,"11,300,000","3,700,000","-5,600,000","3,700,000","400,000"
+				ChangeInPayable,"-6,100,000","-1,600,000","-17,700,000","3,700,000","200,000"
+					ChangeInAccountPayable,"-6,100,000","-1,600,000","-17,700,000","3,700,000","200,000"
+				ChangeInAccruedExpense,"17,400,000","5,300,000",,"0",
+			ChangeInOtherCurrentAssets,"-2,400,000","500,000","-2,100,000","-100,000","0"
+			ChangeInOtherCurrentLiabilities,,,"-2,400,000",,"0"
+			ChangeInOtherWorkingCapital,,"-900,000",,"-300,000",
+InvestingCashFlow,"-3,000,000","-600,000","-500,000","-1,100,000","-1,500,000"
+	CashFlowFromContinuingInvestingActivities,"-3,000,000","-600,000","-500,000","-1,100,000","-1,500,000"
+		NetPPEPurchaseAndSale,"-3,000,000","-600,000","-500,000","-1,100,000","-1,000,000"
+			PurchaseOfPPE,"-3,000,000","-600,000","-500,000","-1,100,000","-1,000,000"
+FinancingCashFlow,"819,800,000","-2,400,000","100,000","0","4,600,000"
+	CashFlowFromContinuingFinancingActivities,"819,800,000","-2,400,000","100,000","0","4,600,000"
+		NetIssuancePaymentsOfDebt,"17,500,000","-2,500,000","0","0","0"
+			NetLongTermDebtIssuance,"17,500,000","-2,500,000","0","0","0"
+				LongTermDebtIssuance,,,"0",,"0"
+				LongTermDebtPayments,,"-2,500,000",,"0",
+		NetCommonStockIssuance,,,"0",,"0"
+			CommonStockIssuance,,,"0",,"0"
+		NetPreferredStockIssuance,,,"0",,"4,600,000"
+			PreferredStockIssuance,,,"0",,"4,600,000"
+		ProceedsFromStockOptionExercised,"700,000","100,000","100,000","0","0"
+		NetOtherFinancingCharges,,,"0",,
+EndCashPosition,"707,100,000","707,100,000","746,900,000","23,500,000","36,600,000"
+	ChangesInCash,"683,600,000","-39,800,000","-49,300,000","-13,100,000","-4,500,000"
+	BeginningCashPosition,"23,500,000","746,900,000","796,200,000","36,600,000","41,100,000"
+InterestPaidSupplementalData,"1,000,000","300,000",,"0",
+CapitalExpenditure,"-3,000,000","-600,000","-500,000","-1,100,000","-1,500,000"
+IssuanceOfCapitalStock,,,"0",,"4,600,000"
+IssuanceOfDebt,,,"0",,"0"
+RepaymentOfDebt,,"-2,500,000",,"0",
+FreeCashFlow,"-136,200,000","-37,400,000","-49,400,000","-13,100,000","-9,100,000"

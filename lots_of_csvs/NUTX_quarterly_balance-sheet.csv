@@ -1,0 +1,65 @@
+name,03/31/2022,09/30/2021,12/31/2020
+TotalAssets,"83,333,020","372,130,905","308,554,805"
+	CurrentAssets,"14,970,688","180,253,143","135,507,414"
+		CashCashEquivalentsAndShortTermInvestments,"12,716,228","34,238,334","25,514,275"
+			CashAndCashEquivalents,"12,716,228","34,238,334","25,514,275"
+				CashFinancial,"12,716,228",,
+		Receivables,"2,127,076","143,738,667","108,136,880"
+			AccountsReceivable,"2,127,076","143,738,667","108,136,880"
+		Inventory,,"1,730,569","1,725,689"
+		PrepaidAssets,"127,384","545,573","130,570"
+	TotalNonCurrentAssets,"68,362,332","191,877,762","173,047,391"
+		NetPPE,"101,782","189,603,139","170,809,411"
+			GrossPPE,"162,830","200,275,502","177,373,332"
+				Properties,,"0","0"
+				LandAndImprovements,,"17,214,893","17,039,109"
+				BuildingsAndImprovements,,"79,192,046","64,153,226"
+				MachineryFurnitureEquipment,"75,841","27,927,517","22,540,211"
+				OtherProperties,"86,989","46,544,366","48,629,597"
+				ConstructionInProgress,,"1,751,427","0"
+				Leases,,"27,645,253","25,011,189"
+			AccumulatedDepreciation,"-61,048","-10,672,363","-6,563,921"
+		GoodwillAndOtherIntangibleAssets,"68,260,550","1,139,297","1,139,297"
+			Goodwill,"57,891,411","1,139,297","1,139,297"
+			OtherIntangibleAssets,"10,369,139",,
+		OtherNonCurrentAssets,,"1,135,326","1,098,683"
+TotalLiabilitiesNetMinorityInterest,"11,210,820","159,048,455","161,185,980"
+	CurrentLiabilities,"8,430,992","40,681,834","31,451,016"
+		PayablesAndAccruedExpenses,"3,808,867","19,143,572","11,065,946"
+			Payables,"3,808,867","15,034,786","8,630,661"
+				AccountsPayable,"3,680,691","15,034,786","8,630,661"
+				DuetoRelatedPartiesCurrent,"128,176",,
+			CurrentAccruedExpenses,,"4,108,786","2,435,285"
+		CurrentDebtAndCapitalLeaseObligation,"4,530,014","21,538,262","20,385,070"
+			CurrentDebt,"4,482,241","19,742,734","18,645,091"
+				LineOfCredit,,"73,518","936,714"
+				OtherCurrentBorrowings,"4,482,241","19,669,216","17,708,377"
+			CurrentCapitalLeaseObligation,"47,773","1,795,528","1,739,979"
+		CurrentDeferredLiabilities,"92,111",,
+			CurrentDeferredRevenue,"92,111",,
+	TotalNonCurrentLiabilitiesNetMinorityInterest,"2,779,828","118,366,621","129,734,964"
+		LongTermDebtAndCapitalLeaseObligation,"43,465","118,366,621","129,734,964"
+			LongTermDebt,,"71,882,615","81,903,657"
+			LongTermCapitalLeaseObligation,"43,465","46,484,006","47,831,307"
+		NonCurrentDeferredLiabilities,"1,747,250",,
+			NonCurrentDeferredTaxesLiabilities,"1,747,250",,
+		OtherNonCurrentLiabilities,"989,113",,
+TotalEquityGrossMinorityInterest,"72,122,200","213,082,450","147,368,825"
+	StockholdersEquity,"71,927,453","121,400,880","85,806,895"
+		CapitalStock,"48,461",,
+			PreferredStock,"0",,
+			CommonStock,"48,461",,
+		AdditionalPaidInCapital,"120,530,510",,
+		RetainedEarnings,"-48,651,518",,
+	MinorityInterest,"194,747","91,681,570","61,561,930"
+TotalCapitalization,"71,927,453","193,283,495","167,710,552"
+CommonStockEquity,"71,927,453","121,400,880","85,806,895"
+CapitalLeaseObligations,"91,238","48,279,534","49,571,286"
+NetTangibleAssets,"3,666,903","120,261,583","84,667,598"
+WorkingCapital,"6,539,696","139,571,309","104,056,398"
+InvestedCapital,"76,409,694","213,026,229","186,355,643"
+TangibleBookValue,"3,666,903","120,261,583","84,667,598"
+TotalDebt,"4,573,479","139,904,883","150,120,034"
+NetDebt,,"57,387,015","75,034,473"
+ShareIssued,"643,736,691","643,736,691","643,736,691"
+OrdinarySharesNumber,"643,736,691","643,736,691","643,736,691"

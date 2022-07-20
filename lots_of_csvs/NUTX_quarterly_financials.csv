@@ -1,0 +1,55 @@
+name,ttm,03/31/2022,03/31/2021,12/31/2020
+TotalRevenue,"372,638,624","6,209,175","2,014,345","106,133,487"
+	OperatingRevenue,"372,638,624","6,209,175","2,014,345","106,133,487"
+CostOfRevenue,,"4,492,930","1,587,473",
+GrossProfit,,"1,716,245","426,872",
+OperatingExpense,"157,471,163","18,084,166","4,576,795","42,801,648"
+	SellingGeneralAndAdministration,"149,885,364","17,793,963","4,436,031","41,089,288"
+		GeneralAndAdministrativeExpense,"149,885,364","17,782,908","4,426,292","41,089,288"
+			SalariesAndWages,"86,824,401",,,"23,935,688"
+			InsuranceAndClaims,"9,460,662",,,"1,893,236"
+			OtherGandA,"53,600,301","17,782,908","4,426,292","15,260,364"
+		SellingAndMarketingExpense,,"11,055","9,739",
+	ResearchAndDevelopment,,"73,750","76,720",
+	DepreciationAmortizationDepletionIncomeStatement,"7,585,799","216,453","64,044","1,712,360"
+		DepreciationAndAmortizationInIncomeStatement,"7,585,799","216,453","64,044","1,712,360"
+			DepreciationIncomeStatement,"7,585,799",,,"1,712,360"
+			Amortization,,"216,453","64,044",
+				AmortizationOfIntangiblesIncomeStatement,,"216,453","64,044",
+OperatingIncome,"215,167,461","-16,367,921","-4,149,923","63,331,839"
+NetNonOperatingInterestIncomeExpense,"-5,993,634","-470,240","-334,217","-1,742,357"
+	InterestIncomeNonOperating,,"368","114",
+	InterestExpenseNonOperating,"5,993,634","470,608","334,331","1,742,357"
+OtherIncomeExpense,"6,278,069","260,087",,"-1,013,073"
+	SpecialIncomeCharges,,"260,087","0",
+		OtherSpecialCharges,,"-260,087",,
+	OtherNonOperatingIncomeExpenses,"6,278,069",,,"-1,013,073"
+PretaxIncome,"215,451,896","-16,578,074","-4,484,140","60,576,409"
+TaxProvision,,"-8,889","0",
+NetIncomeCommonStockholders,"157,791,190","-16,763,041","-4,444,559","40,253,571"
+	NetIncome,"157,791,190","-16,763,041","-4,444,559","40,253,571"
+		NetIncomeIncludingNoncontrollingInterests,"215,451,896","-16,569,185","-4,484,140","60,576,409"
+			NetIncomeContinuousOperations,"215,451,896","-16,569,185","-4,484,140","60,576,409"
+		MinorityInterests,"-57,660,706","-193,856","39,581","-20,322,838"
+DilutedNIAvailtoComStockholders,"157,791,190","-16,763,041","-4,444,559","40,253,571"
+BasicEPS,,"-0.026","-0.007",
+DilutedEPS,,"-0.026","-0.007",
+BasicAverageShares,,"643,736,691","643,736,691",
+DilutedAverageShares,,"643,736,691","643,736,691",
+TotalOperatingIncomeAsReported,"215,167,461","-16,367,921","-4,149,923","63,331,839"
+TotalExpenses,"157,471,163","22,577,096","6,164,268","42,801,648"
+NetIncomeFromContinuingAndDiscontinuedOperation,"157,791,190","-16,763,041","-4,444,559","40,253,571"
+NormalizedIncome,"157,791,190","-17,022,988.544","-4,444,559","40,253,571"
+InterestIncome,,"368","114",
+InterestExpense,"5,993,634","470,608","334,331","1,742,357"
+NetInterestIncome,"-5,993,634","-470,240","-334,217","-1,742,357"
+EBIT,"221,445,530","-16,107,466","-4,149,809","62,318,766"
+EBITDA,"229,031,329"
+ReconciledCostOfRevenue,,"4,480,347","1,586,419",
+ReconciledDepreciation,"6,585,799","229,036","65,098","712,360"
+NetIncomeFromContinuingOperationNetMinorityInterest,"157,791,190","-16,763,041","-4,444,559","40,253,571"
+TotalUnusualItemsExcludingGoodwill,,"260,087","0",
+TotalUnusualItems,,"260,087","0",
+NormalizedEBITDA,"229,031,329","-16,138,517","-4,084,711","64,031,126"
+TaxRateForCalcs,"0.27","0.001","0","0.27"
+TaxEffectOfUnusualItems,"0","139.456","0","0"

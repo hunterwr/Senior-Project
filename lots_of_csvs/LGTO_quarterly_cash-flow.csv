@@ -1,0 +1,27 @@
+name,ttm,03/31/2022,12/31/2021,09/30/2021
+OperatingCashFlow,,"-223,817","-494,764","-549"
+	CashFlowFromContinuingOperatingActivities,,"-223,817","-494,764","-549"
+		NetIncomeFromContinuingOperations,,"-176,355","-137,890","-549"
+		OperatingGainsLosses,,"-85,474",,
+			GainLossOnInvestmentSecurities,,"-85,474",,
+		ChangeInWorkingCapital,,"38,012",,
+			ChangeInPrepaidAssets,,"56,726",,
+			ChangeInPayablesAndAccruedExpense,,"-18,714",,
+				ChangeInPayable,,"-18,714",,
+					ChangeInTaxPayable,,"-20,282",,
+						ChangeInIncomeTaxPayable,,"-20,282",,
+					ChangeInAccountPayable,,"1,568",,
+FinancingCashFlow,,,"281,725,181","10,163"
+	CashFlowFromContinuingFinancingActivities,,,"281,725,181","10,163"
+		NetIssuancePaymentsOfDebt,,,"-65,000","65,000"
+			NetLongTermDebtIssuance,,,"-65,000","65,000"
+				LongTermDebtIssuance,,,"31,500","65,000"
+		NetCommonStockIssuance,,,"287,723,370","12,500"
+			CommonStockIssuance,,,"287,723,370","12,500"
+		NetOtherFinancingCharges,,,"-5,933,189","-67,337"
+EndCashPosition,,"876,214","1,100,031","9,614"
+	ChangesInCash,,"-223,817","1,090,417","9,614"
+	BeginningCashPosition,,"1,100,031","9,614","0"
+IssuanceOfCapitalStock,,,"287,723,370","12,500"
+IssuanceOfDebt,,,"31,500","65,000"
+FreeCashFlow,,"-223,817","-494,764","-549"

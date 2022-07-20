@@ -1,0 +1,11 @@
+name,ttm,12/31/2019
+OperatingCashFlow,"120,322,402","10,854,645"
+FinancingCashFlow,"-120,402,428","-10,972,098"
+EndCashPosition,"2,538,000","491,902"
+	ChangesInCash,"-80,026","-117,453"
+	EffectOfExchangeRateChanges,"-5,777","125"
+	BeginningCashPosition,"2,623,803","609,230"
+IssuanceOfDebt,"0","6,747,726"
+RepaymentOfDebt,"-26,713,550","6,747,726"
+RepurchaseOfCapitalStock,"0","0"
+FreeCashFlow,"120,322,402","10,854,645"

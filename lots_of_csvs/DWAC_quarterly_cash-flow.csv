@@ -1,0 +1,33 @@
+name,ttm,03/31/2022,12/31/2021,09/30/2021,06/30/2021,03/31/2021
+OperatingCashFlow,"-1,700,320","-586,239","-1,166,901","53,560","-740","0"
+	CashFlowFromContinuingOperatingActivities,"-1,700,320","-586,239","-1,166,901","53,560","-740","0"
+		NetIncomeFromContinuingOperations,"-3,268,399","-1,884,389","-1,224,100","-159,170","-740","-485"
+		OtherNonCashItems,,"-29,531","-6,196",,,
+		ChangeInWorkingCapital,"1,604,708","1,327,681","63,395","213,632","0","485"
+			ChangeInPrepaidAssets,"-346,605","59,418",,,,
+			ChangeInPayablesAndAccruedExpense,"1,951,313","1,268,263","469,418","213,632","0","485"
+				ChangeInPayable,,"50,000","39,958",,,
+					ChangeInTaxPayable,"250,000","50,000","50,958",,,
+						ChangeInIncomeTaxPayable,"250,000","50,000","50,958",,,
+				ChangeInAccruedExpense,"1,701,313","1,218,263","429,460","53,590","0","485"
+InvestingCashFlow,,,"0",,,
+	CashFlowFromContinuingInvestingActivities,,,"0",,,
+		NetOtherInvestingChanges,,,"0",,,
+FinancingCashFlow,"294,966,812","300,000","0","294,666,812","0","25,000"
+	CashFlowFromContinuingFinancingActivities,"294,966,812","300,000","0","294,666,812","0","25,000"
+		NetIssuancePaymentsOfDebt,"300,000","300,000","0",,,
+			NetLongTermDebtIssuance,,,"0",,,
+				LongTermDebtIssuance,,,"0",,,
+				LongTermDebtPayments,,,"0",,,
+			NetShortTermDebtIssuance,,"300,000",,,,
+				ShortTermDebtIssuance,,"300,000",,,,
+		NetCommonStockIssuance,"298,834,840","0","11,334,840","287,500,000","0","25,000"
+			CommonStockIssuance,"298,834,840","0","11,334,840","287,500,000","0","25,000"
+		NetOtherFinancingCharges,,,"0",,,
+EndCashPosition,"41,492","41,492","327,731","1,494,632","24,260","25,000"
+	ChangesInCash,"16,492","-286,239","-1,166,901","1,470,372","-740","25,000"
+	BeginningCashPosition,"25,000","327,731","1,494,632","24,260","25,000","0"
+IssuanceOfCapitalStock,"298,834,840","0","11,334,840","287,500,000","0","25,000"
+IssuanceOfDebt,"523,557","300,000","0",,,
+RepaymentOfDebt,,,"0",,,
+FreeCashFlow,"-1,700,320","-586,239","-1,166,901","53,560","-740","0"

@@ -1,0 +1,33 @@
+name,ttm,03/31/2022,09/30/2021,06/30/2021
+TotalRevenue,,"0","0","0"
+	OperatingRevenue,,"0","0","0"
+OperatingExpense,,"932,940","131,911","-63"
+OperatingIncome,,"-932,940","-131,911","63"
+NetNonOperatingInterestIncomeExpense,,"87,243","-1,269,736",
+	InterestIncomeNonOperating,,"87,243","13,741",
+	TotalOtherFinanceCost,,,"1,283,477",
+OtherIncomeExpense,,"1,018,122","4,921,233",
+	GainOnSaleOfSecurity,,"1,018,122","4,921,233",
+PretaxIncome,,"172,425","3,519,586","63"
+NetIncomeCommonStockholders,,"172,425","3,519,586","63"
+	NetIncome,,"172,425","3,519,586","63"
+		NetIncomeIncludingNoncontrollingInterests,,"172,425","3,519,586","63"
+			NetIncomeContinuousOperations,,"172,425","3,519,586","63"
+DilutedNIAvailtoComStockholders,,"172,425","3,519,586","63"
+BasicEPS,,"0.01","0.17","0"
+DilutedEPS,,"0.01","0.17","0"
+BasicAverageShares,,"31,250,000","20,260,989","32,187,500"
+DilutedAverageShares,,"31,250,000","20,260,989","32,187,500"
+TotalOperatingIncomeAsReported,,"-932,940","-131,911",
+TotalExpenses,,"932,940","131,911","-63"
+NetIncomeFromContinuingAndDiscontinuedOperation,,"172,425","3,519,586","63"
+NormalizedIncome,,"-438,448.2","-72,914.09","63"
+InterestIncome,,"87,243","13,741",
+NetInterestIncome,,"87,243","-1,269,736",
+EBIT,,"-932,940","-131,911","63"
+NetIncomeFromContinuingOperationNetMinorityInterest,,"172,425","3,519,586","63"
+TotalUnusualItemsExcludingGoodwill,"1,018,122","1,018,122","4,921,233",
+TotalUnusualItems,"1,018,122","1,018,122","4,921,233",
+NormalizedEBITDA,,"-1,951,062","-5,053,144","63"
+TaxRateForCalcs,,"0.4","0.27","0.27"
+TaxEffectOfUnusualItems,,"407,248.8","1,328,732.91","0"

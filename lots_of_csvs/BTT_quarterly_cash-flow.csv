@@ -1,0 +1,9 @@
+name,ttm
+OperatingCashFlow,"81,363,237"
+FinancingCashFlow,"-81,363,237"
+EndCashPosition,"0"
+	ChangesInCash,"0"
+	BeginningCashPosition,"0"
+IssuanceOfDebt,"2,700,000"
+RepaymentOfDebt,"-2,700,000"
+FreeCashFlow,"81,363,237"

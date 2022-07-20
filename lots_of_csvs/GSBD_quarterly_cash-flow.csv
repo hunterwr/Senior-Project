@@ -1,0 +1,10 @@
+name,ttm,12/31/2021,12/31/2020,12/31/2019,12/31/2018,12/31/2017,12/31/2016,12/31/2015,12/31/2014,12/31/2013
+OperatingCashFlow,"-90,491,000"
+FinancingCashFlow,"76,411,000"
+EndCashPosition,"31,406,000"
+	ChangesInCash,"-14,080,000"
+	EffectOfExchangeRateChanges,"7,000"
+	BeginningCashPosition,"45,486,000"
+IssuanceOfDebt,"1,128,723,000"
+RepaymentOfDebt,"-860,193,000"
+FreeCashFlow,"-90,491,000"

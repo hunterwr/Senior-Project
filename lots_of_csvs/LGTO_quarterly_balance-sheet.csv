@@ -1,0 +1,40 @@
+name,03/31/2022,09/30/2021,08/31/2021
+TotalAssets,"281,485,137","115,556","90,561"
+	CurrentAssets,"1,235,500","9,614","77,191"
+		CashCashEquivalentsAndShortTermInvestments,"876,214","9,614","77,191"
+			CashAndCashEquivalents,"876,214","9,614","77,191"
+				CashFinancial,"876,214","9,614","77,191"
+		PrepaidAssets,"359,286",,
+	TotalNonCurrentAssets,"280,249,637","105,942","13,370"
+		NonCurrentDeferredAssets,,"105,942","13,370"
+		OtherNonCurrentAssets,"280,249,637",,
+TotalLiabilitiesNetMinorityInterest,"9,724,587","90,235","65,000"
+	CurrentLiabilities,"64,587","90,235","65,000"
+		PayablesAndAccruedExpenses,"64,587",,
+			Payables,"64,587",,
+				AccountsPayable,"7,287",,
+				TotalTaxPayable,"57,300",,
+					IncomeTaxPayable,"7,350",,
+		CurrentDebtAndCapitalLeaseObligation,,"65,000","65,000"
+			CurrentDebt,,"65,000","65,000"
+				CurrentNotesPayable,,"65,000","65,000"
+		CurrentDeferredLiabilities,,"25,235",
+	TotalNonCurrentLiabilitiesNetMinorityInterest,"9,660,000","0","0"
+		NonCurrentDeferredLiabilities,"9,660,000",,
+TotalEquityGrossMinorityInterest,"271,760,550","25,321","25,561"
+	StockholdersEquity,"271,760,550","25,321","25,561"
+		CapitalStock,"280,140,831","714","714"
+			PreferredStock,"0",,
+			CommonStock,"280,140,831","714","714"
+		AdditionalPaidInCapital,"0","25,156","25,156"
+		RetainedEarnings,"-8,380,281","-549","-309"
+TotalCapitalization,"271,760,550","25,321","25,561"
+CommonStockEquity,"271,760,550","25,321","25,561"
+NetTangibleAssets,"271,760,550","25,321","25,561"
+WorkingCapital,"1,170,913","-80,621","12,191"
+InvestedCapital,"271,760,550","90,321","90,561"
+TangibleBookValue,"271,760,550","25,321","25,561"
+TotalDebt,,"65,000","65,000"
+NetDebt,,"55,386",
+ShareIssued,"35,911,000","35,911,000","35,911,000"
+OrdinarySharesNumber,"35,911,000","35,911,000","35,911,000"

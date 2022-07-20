@@ -1,0 +1,38 @@
+name,ttm,03/31/2022,12/31/2021,09/30/2021,06/30/2021,03/31/2021
+OperatingCashFlow,"-220,044,000","-59,049,000","-73,212,000","-54,213,000","-33,570,000","-23,741,000"
+	CashFlowFromContinuingOperatingActivities,"-220,044,000","-59,049,000","-73,212,000","-54,213,000","-33,570,000","-23,741,000"
+		NetIncomeFromContinuingOperations,"-288,756,000","-100,666,000","-83,042,000","-60,375,000","-44,673,000","-38,700,000"
+		DepreciationAmortizationDepletion,"85,000","84,000",,,,
+			DepreciationAndAmortization,"85,000","84,000",,,,
+				Depreciation,"85,000","84,000",,,,
+		AmortizationOfSecurities,"1,624,000","194,000","853,000",,,
+		StockBasedCompensation,"19,160,000","1,983,000","7,856,000","5,979,000","3,342,000","587,000"
+		OtherNonCashItems,,,"0","0",,
+		ChangeInWorkingCapital,"47,777,000","39,356,000","1,120,000","-394,000","7,695,000","14,372,000"
+			ChangeInPrepaidAssets,"-18,509,000","3,212,000","-11,557,000","-10,196,000","32,000","-1,178,000"
+			ChangeInPayablesAndAccruedExpense,"66,597,000","33,159,000","9,957,000","15,818,000","7,663,000","15,550,000"
+				ChangeInPayable,"7,365,000","12,899,000","-11,279,000","6,750,000","-1,005,000","3,164,000"
+					ChangeInAccountPayable,"7,365,000","12,899,000","-11,279,000","6,750,000","-1,005,000","3,164,000"
+				ChangeInAccruedExpense,"59,232,000","20,260,000","21,236,000","9,068,000","8,668,000","12,386,000"
+			ChangeInOtherCurrentAssets,"-237,000","3,060,000","2,719,000",,,
+			ChangeInOtherCurrentLiabilities,"-74,000","-75,000",,,,
+InvestingCashFlow,"-1,711,000","49,000,000","137,916,000",,,
+	CashFlowFromContinuingInvestingActivities,"-1,711,000","49,000,000","137,916,000",,,
+		NetInvestmentPurchaseAndSale,"-1,627,000","49,000,000","138,000,000",,,
+			PurchaseOfInvestment,,,"0",,,
+			SaleOfInvestment,"187,000,000","49,000,000",,,,
+FinancingCashFlow,"662,728,000","45,000","-749,000","328,600,000","334,832,000","0"
+	CashFlowFromContinuingFinancingActivities,"662,728,000","45,000","-749,000","328,600,000","334,832,000","0"
+		NetCommonStockIssuance,"330,903,000","-2,000","0",,,"0"
+			CommonStockIssuance,,,"0",,,
+			CommonStockPayments,"-2,000","-2,000",,,,"0"
+		NetPreferredStockIssuance,,,"0","-101,000","335,264,000","0"
+			PreferredStockIssuance,,,"0","-101,000","335,264,000","0"
+		ProceedsFromStockOptionExercised,"47,000","47,000","0",,,"0"
+		NetOtherFinancingCharges,,,"-749,000","-2,204,000",,
+EndCashPosition,"532,220,000","532,220,000","542,224,000","478,269,000","392,509,000","91,247,000"
+	ChangesInCash,"440,973,000","-10,004,000","63,955,000","85,760,000","301,262,000","-23,741,000"
+	BeginningCashPosition,"91,247,000","542,224,000","478,269,000","392,509,000","91,247,000","114,988,000"
+IssuanceOfCapitalStock,,,"0","330,804,000","335,264,000","0"
+RepurchaseOfCapitalStock,"-2,000","-2,000",,,,"0"
+FreeCashFlow,"-220,128,000","-59,049,000","-73,296,000","-54,213,000","-33,570,000","-23,741,000"

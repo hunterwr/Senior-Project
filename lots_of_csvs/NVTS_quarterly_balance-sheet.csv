@@ -1,0 +1,68 @@
+name,03/31/2022,12/31/2021,09/30/2021,06/30/2021
+TotalAssets,"286,903,000","295,601,000","253,400,679","41,137,000"
+	CurrentAssets,"279,536,000","291,370,000","318,516","39,175,000"
+		CashCashEquivalentsAndShortTermInvestments,"253,797,000","268,252,000","13,955","23,848,000"
+			CashAndCashEquivalents,"253,797,000","268,252,000","13,955","23,848,000"
+				CashFinancial,,,"13,955",
+		Receivables,"9,621,000","8,263,000","5,570,000","4,501,000"
+			AccountsReceivable,"9,621,000","8,263,000","5,570,000","4,501,000"
+		Inventory,"13,130,000","11,978,000","11,719,000","7,924,000"
+			RawMaterials,"2,518,000","60,000",,
+			WorkInProcess,"7,482,000","9,945,000",,
+			FinishedGoods,"3,130,000","1,973,000",,
+		PrepaidAssets,"2,988,000","2,877,000","304,561","2,902,000"
+	TotalNonCurrentAssets,"7,367,000","4,231,000","253,082,163","1,962,000"
+		NetPPE,"3,862,000","2,302,000","1,616,000","1,180,000"
+			GrossPPE,"5,643,000","3,958,000",,
+				Properties,"0","0",,
+				MachineryFurnitureEquipment,"3,642,000","3,381,000",,
+				OtherProperties,"1,391,000",,,
+				Leases,"610,000","577,000",,
+			AccumulatedDepreciation,"-1,781,000","-1,656,000",,
+		GoodwillAndOtherIntangibleAssets,"82,000","170,000","258,000","344,000"
+		InvestmentsAndAdvances,,,"253,082,163",
+			InvestmentinFinancialAssets,,,"253,082,163",
+				TradingSecurities,,,"253,082,163",
+		NonCurrentNoteReceivables,"200,000","206,000",,
+		OtherNonCurrentAssets,"3,223,000","1,553,000","253,082,163","438,000"
+TotalLiabilitiesNetMinorityInterest,"87,167,000","230,065,000","33,255,426","124,820,000"
+	CurrentLiabilities,"12,881,000","10,728,000","297,926","11,470,000"
+		PayablesAndAccruedExpenses,"5,216,000","7,499,000","297,926","7,688,000"
+			Payables,"5,216,000","4,860,000","6,118,000","7,688,000"
+				AccountsPayable,"5,216,000","4,860,000","6,118,000","7,688,000"
+			CurrentAccruedExpenses,"3,604,000","2,639,000","297,926","1,582,000"
+		PensionandOtherPostRetirementBenefitPlansCurrent,"3,604,000","2,639,000","4,506,000","1,582,000"
+		CurrentDebtAndCapitalLeaseObligation,"4,044,000","3,200,000","3,200,000","2,200,000"
+			CurrentDebt,"3,200,000","3,200,000","3,200,000","2,200,000"
+				OtherCurrentBorrowings,"3,200,000","3,200,000","3,200,000","2,200,000"
+			CurrentCapitalLeaseObligation,"844,000",,,
+		CurrentDeferredLiabilities,"17,000",,,
+			CurrentDeferredRevenue,"17,000",,,
+		OtherCurrentLiabilities,"17,000","29,000","59,000",
+	TotalNonCurrentLiabilitiesNetMinorityInterest,"74,286,000","219,337,000","32,957,500","113,350,000"
+		LongTermDebtAndCapitalLeaseObligation,"3,519,000","3,716,000","4,513,000","3,778,000"
+			LongTermDebt,"2,919,000","3,716,000","4,513,000","3,778,000"
+			LongTermCapitalLeaseObligation,"600,000",,,
+		NonCurrentDeferredLiabilities,,,"8,067,500",
+		TradeandOtherPayablesNonCurrent,,,"8,067,500",
+		DerivativeProductLiabilities,"0","81,388,000","24,890,000",
+		PreferredSecuritiesOutsideStockEquity,,"0","109,506,000","109,506,000"
+		OtherNonCurrentLiabilities,"70,767,000","134,233,000","75,000","66,000"
+TotalEquityGrossMinorityInterest,"199,736,000","65,536,000","220,145,253","-83,683,000"
+	StockholdersEquity,"199,736,000","65,536,000","220,145,253","-83,683,000"
+		CapitalStock,"15,000","15,000","633","3,000"
+			PreferredStock,,,"0",
+			CommonStock,"15,000","15,000","633","3,000"
+		AdditionalPaidInCapital,"348,658,000","294,190,000","253,000,000","18,295,000"
+		RetainedEarnings,"-148,875,000","-228,667,000","-32,855,380","-101,977,000"
+		GainsLossesNotAffectingRetainedEarnings,"-62,000","-2,000","-2,000","-4,000"
+TotalCapitalization,"202,655,000","69,252,000","220,145,253","-79,905,000"
+CommonStockEquity,"199,736,000","65,536,000","220,145,253","-83,683,000"
+CapitalLeaseObligations,"1,444,000",,,
+NetTangibleAssets,"199,654,000","65,366,000","220,145,253","-84,027,000"
+WorkingCapital,"266,655,000","280,642,000","20,590","27,705,000"
+InvestedCapital,"205,855,000","72,452,000","220,145,253","-77,705,000"
+TangibleBookValue,"199,654,000","65,366,000","220,145,253","-84,027,000"
+TotalDebt,"7,563,000","6,916,000","7,713,000","5,978,000"
+ShareIssued,"123,461,312","117,750,608","31,625,000","31,625,000"
+OrdinarySharesNumber,"123,461,312","117,750,608","31,625,000","31,625,000"
